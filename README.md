@@ -1,2 +1,2 @@
 # MiniJava Compiler
-A Compiler of MiniJava, implemented by Java
+A MiniJava compiler implemented by Java
